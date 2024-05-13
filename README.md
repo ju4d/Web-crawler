@@ -44,10 +44,3 @@ Este es un ejemplo de la salida que nos da el programa:
   },
   {
 ```
-    "Articulo": "Amazon: Microsoft Surface Laptop 5 corei5 256GB",
-    "enlace": "https://www.promodescuentos.com/ofertas/microsoft-surface-laptop-5-corei5-256gb-951216"
-  },
-  {
-    "Precio": "$17,849"
-  },
-```
