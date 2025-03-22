@@ -72,7 +72,7 @@ async function Navigate() {
                 await page.waitForSelector("#main > div.flex--expand-v > div.flex--expand-v > div:nth-child(4) > div.bg--main.boxSec-div.js-pagi-bottom.width--all-12.flex.forceLayer.js-sticky.zIndex--fixed.js-sticky-pagi--on.pagi--max-height-80 > div > div > div > nav > button:nth-child(5)");
                 await page.click("#main > div.flex--expand-v > div.flex--expand-v > div:nth-child(4) > div.bg--main.boxSec-div.js-pagi-bottom.width--all-12.flex.forceLayer.js-sticky.zIndex--fixed.js-sticky-pagi--on.pagi--max-height-80 > div > div > div > nav > button:nth-child(5)");
             } catch (error) {
-                console.log("Solo hay una pagina mi niño ＞﹏＜");
+                console.log("Solo hay una pagina mi niño y no hay mas te lo juro por dieguito maradona que ya no se droga bendito sea dios como desde hace 3 años ＞﹏＜");
             }
         }
 
